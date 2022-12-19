@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pengzihao1999
 - 👀 I’m interested in federated learning, deep learning, annoymous detection and so on.
-- 🌱 I’m currently learning ..
+- 🌱 we are currently put ours paper's code online ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
